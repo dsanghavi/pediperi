@@ -1,0 +1,4 @@
+/home/innovation/april-tags/pediperi/pod-build/CMakeFiles/apriltags.dir
+/home/innovation/april-tags/pediperi/pod-build/example/CMakeFiles/apriltags_core.dir
+/home/innovation/april-tags/pediperi/pod-build/example/CMakeFiles/imu.dir
+/home/innovation/april-tags/pediperi/pod-build/CMakeFiles/tmp.dir

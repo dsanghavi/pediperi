@@ -1,7 +1,7 @@
 April tags for Perimetry
-03-SEP-2015
+24-DEC-2015
 
-Authors - Tejaswi Kasarla, Dhruv Joshi
+Authors - Darpan Sanghavi, Sujeath Pareddy, Tejaswi Kasarla, Dhruv Joshi
 
 Srujana - Center for Innovation, LV Prasad Eye Institute, Hyderabad
 
